@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hi there 👋, I'm Sanjana Sanodiya
 
-<!--
-**sancore860/Sancore860** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **B.Tech Student (Artificial Intelligence & Data Science)**
+📍 Seoni, Madhya Pradesh, India
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💫 About Me
+
+I am an enthusiastic undergraduate student with a strong interest in **Data Science, Machine Learning, and Artificial Intelligence**.
+I enjoy solving problems, learning new technologies, and working collaboratively in team environments.
+
+I am always eager to explore new challenges and improve my technical and professional skills.
+
+---
+
+## 🛠️ Skills
+
+### 💻 Programming & Technical Skills
+
+* Python Programming
+* C++ Programming
+* SQL Database Management
+* HTML & CSS
+
+### 📊 Data Science & AI
+
+* Machine Learning
+* Data Analysis
+
+
+## 🌱 Currently Learning
+
+* Advanced Machine Learning
+* Data Visualization
+* Real-world Data Science Projects
+
+---
+
+
+
+
+
+
+⭐ *Thanks for visiting my profile!*
